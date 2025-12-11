@@ -7,6 +7,8 @@ public class Datatypes {
 		float d= 45.9f;
 		double e = 4343.545d;
 		long f = 345345l;
+		char g = 'G';
+		boolean h = true;
 		
 		System.out.println(a);
 		System.out.println(b);
@@ -14,6 +16,9 @@ public class Datatypes {
 		System.out.println(d);
 		System.out.println(e);
 		System.out.println(f);
+		System.out.println(g);
+		System.out.println(h);
 	}
 
 }
+
