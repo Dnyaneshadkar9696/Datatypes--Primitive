@@ -1,6 +1,6 @@
 
 public class Datatypes {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		byte a = 25;
 		short b = 479;
 		int c = 46;
@@ -21,4 +21,5 @@ public class Datatypes {
 	}
 
 }
+
 
