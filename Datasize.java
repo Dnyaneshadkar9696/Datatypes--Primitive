@@ -1,6 +1,6 @@
 
 public class Datasize {
-	public static void main(String args[]) {
+	public static void main(String[] args){
 				
 		
 //		Wrapper class  
@@ -48,3 +48,4 @@ public class Datasize {
 	}
 
 }
+
